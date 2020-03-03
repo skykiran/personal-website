@@ -1,0 +1,14 @@
+title:"mypages"
+Why do you wnat to work on when you join this club and why?
+Imagine when a question is itching in your mind and you are eager to know about it 
+in that case you will take a browser and search for what you want then you will see
+a couple of links when you click them you visit a wibsite which holds some information about want you want
+After reading it you may be satisfied, if your are not then you visit another one and then the itching in your brain stops.
+websites are now one of the greatest source of knowledge and desgining them and making them creative helps people gain what they 
+want.That is the reason for me joining in Web-development club
+
+why do you want to join AMRITA-CS-STAR?
+I wanted to learn more about web-Desgining.
+
+What are your intrests?
+I am intrested in web-Desgining.
